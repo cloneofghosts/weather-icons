@@ -1,6 +1,6 @@
 /*!
- *  Weather Icons 2.0.8
- *  Updated September 19, 2015
+ *  Weather Icons 2.0.9
+ *  Updated October 28, 2019
  *  Weather themed icons for Bootstrap
  *  Author - Erik Flowers - erik@helloerik.com
  *  Email: erik@helloerik.com
@@ -69,6 +69,49 @@
   -ms-transform: scale(1, -1);
   transform: scale(1, -1);
 }
+
+.wi-lg {
+  font-size: 1.33333333em;
+  line-height: 0.75em;
+  vertical-align: -15%;
+}
+
+.wi-2x {
+  font-size: 2em;
+}
+
+.wi-3x {
+  font-size: 3em;
+}
+
+.wi-4x {
+  font-size: 4em;
+}
+
+.wi-5x {
+  font-size: 5em;
+}
+
+.wi-6x {
+  font-size: 6em;
+}
+
+.wi-7x {
+  font-size: 7em;
+}
+
+.wi-8x {
+  font-size: 8em;
+}
+
+.wi-9x {
+  font-size: 9em;
+}
+
+.wi-10x {
+  font-size: 10em;
+}
+
 .wi-day-sunny:before {
   content: "\f00d";
 }
