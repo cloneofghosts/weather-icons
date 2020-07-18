@@ -1348,7 +1348,153 @@
 	content: "\f06d";
 }
 
-/* MET Norway Mappings */
+/* MET Norway Mappings - NEW API */
+.wi-met-no-cloudy:before {
+	content: "\f013";
+}
+.wi-met-no-rain:before {
+	content: "\f01a";
+}
+.wi-met-no-heavyrain:before {
+	content: "\f019";
+}
+.wi-met-no-heavyrainandthunder:before {
+	content: "\f01e";
+}
+.wi-met-no-sleet:before, .wi-met-no-lightsleet:before, .wi-met-no-heavysleet:before {
+	content: "\f0b5";
+}
+.wi-met-no-lightsnow:before, .wi-met-no-snow:before, .wi-met-no-heavysnow:before {
+	content: "\f01b";
+}
+.wi-met-no-snowandthunder:before, .wi-met-no-rainandthunder:before, .wi-met-no-sleetandthunder:before, .wi-met-no-lightrainandthunder:before, .wi-met-no-lightsleetandthunder:before, .wi-met-no-heavysleetandthunder:before, .wi-met-no-lightsnowandthunder:before, .wi-met-no-heavysnowandthunder:before {
+	content: "\f01d";
+}
+.wi-met-no-fog:before {
+	content: "\f014";
+}
+.wi-met-no-lightrain:before {
+	content: "\f01c";
+}
+.wi-met-no-clearsky_day:before {
+	content: "\f00d";
+}
+.wi-met-no-fair_day:before {
+	content: "\f00c";
+}
+.wi-met-no-partlycloudy_day:before {
+	content: "\f002";
+}
+.wi-met-no-rainshowers_day:before {
+	content: "\f009";
+}
+.wi-met-no-rainshowersandthunder_day:before, .wi-met-no-lightrainshowersandthunder_day:before {
+	content: "\f00e";
+}
+.wi-met-no-sleetshowers_day:before, .wi-met-no-lightsleetshowers_day:before, .wi-met-no-heavysleetshowers_day:before {
+	content: "\f0b2";
+}
+.wi-met-no-snowshowers_day:before, .wi-met-no-lightsnowshowers_day:before, .wi-met-no-heavysnowshowers_day:before {
+	content: "\f00a";
+}
+.wi-met-no-sleetshowersandthunder_day:before, .wi-met-no-lightssleetshowersandthunder_day:before, .wi-met-no-heavysleetshowersandthunder_day:before {
+	content: "\f068";
+}
+.wi-met-no-snowshowersandthunder_day:before {
+	content: "\f06b";
+}
+.wi-met-no-heavyrainshowersandthunder_day:before {
+	content: "\f010";
+}
+.wi-met-no-lightssnowshowersandthunder_day:before, .wi-met-no-heavysnowshowersandthunder_day:before {
+	content: "\f06b";
+}
+.wi-met-no-lightrainshowers_day:before {
+	content: "\f00b";
+}
+.wi-met-no-heavyrainshowers_day:before {
+	content: "\f008";
+}
+.wi-met-no-clearsky_polartwilight:before {
+	content: "\f00d";
+}
+.wi-met-no-fair_polartwilight:before {
+	content: "\f00c";
+}
+.wi-met-no-partlycloudy_polartwilight:before {
+	content: "\f002";
+}
+.wi-met-no-rainshowers_polartwilight:before {
+	content: "\f009";
+}
+.wi-met-no-rainshowersandthunder_polartwilight:before, .wi-met-no-lightrainshowersandthunder_polartwilight:before {
+	content: "\f00e";
+}
+.wi-met-no-sleetshowers_polartwilight:before, .wi-met-no-lightsleetshowers_polartwilight:before, .wi-met-no-heavysleetshowers_polartwilight:before {
+	content: "\f0b2";
+}
+.wi-met-no-snowshowers_polartwilight:before, .wi-met-no-lightsnowshowers_polartwilight:before, .wi-met-no-heavysnowshowers_polartwilight:before {
+	content: "\f00a";
+}
+.wi-met-no-sleetshowersandthunder_polartwilight:before, .wi-met-no-lightssleetshowersandthunder_polartwilight:before, .wi-met-no-heavysleetshowersandthunder_polartwilight:before {
+	content: "\f068";
+}
+.wi-met-no-snowshowersandthunder_polartwilight:before {
+	content: "\f06b";
+}
+.wi-met-no-heavyrainshowersandthunder_polartwilight:before {
+	content: "\f010";
+}
+.wi-met-no-lightssnowshowersandthunder_polartwilight:before, .wi-met-no-heavysnowshowersandthunder_polartwilight:before {
+	content: "\f06b";
+}
+.wi-met-no-lightrainshowers_polartwilight:before {
+	content: "\f00b";
+}
+.wi-met-no-heavyrainshowers_polartwilight:before {
+	content: "\f008";
+}
+.wi-met-no-clearsky_night:before {
+	content: "\f02e";
+}
+.wi-met-no-fair_night:before {
+	content: "\f081";
+}
+.wi-met-no-partlycloudy_night:before {
+	content: "\f086";
+}
+.wi-met-no-rainshowers_night:before {
+	content: "\f029";
+}
+.wi-met-no-rainshowersandthunder_night:before, .wi-met-no-lightrainshowersandthunder_night:before {
+	content: "\f02c";
+}
+.wi-met-no-sleetshowers_night:before, .wi-met-no-lightsleetshowers_night:before, .wi-met-no-heavysleetshowers_night:before {
+	content: "\f0b4";
+}
+.wi-met-no-snowshowers_night:before, .wi-met-no-lightsnowshowers_night:before, .wi-met-no-heavysnowshowers_night:before {
+	content: "\f02a";
+}
+.wi-met-no-sleetshowersandthunder_night:before, .wi-met-no-lightssleetshowersandthunder_night:before, .wi-met-no-heavysleetshowersandthunder_night:before {
+	content: "\f06a";
+}
+.wi-met-no-snowshowersandthunder_night:before {
+	content: "\f06d";
+}
+.wi-met-no-heavyrainshowersandthunder_night:before {
+	content: "\f02d";
+}
+.wi-met-no-lightssnowshowersandthunder_night:before, .wi-met-no-heavysnowshowersandthunder_night:before {
+	content: "\f06d";
+}
+.wi-met-no-lightrainshowers_night:before {
+	content: "\f02b";
+}
+.wi-met-no-heavyrainshowers_night:before {
+	content: "\f028";
+}
+
+/* MET Norway Mappings - OLD API */
 .wi-met-no-4:before {
 	content: "\f013";
 }
